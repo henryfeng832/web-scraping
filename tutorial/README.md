@@ -83,5 +83,6 @@ or, shortening it further:
 yield from response.follow_all(css='ul.pager a', callback=self.parse)
 ```
 
+### Zyte Scrapy Cloud
 
 
