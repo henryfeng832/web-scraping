@@ -10,3 +10,8 @@
 - [pprint --- 数据美化输出](https://docs.python.org/zh-cn/3/library/pprint.html)
 - [Faker --- Python构造数据的神器库](https://faker.readthedocs.io/en/master/)
 - [Requests --- 让 HTTP 服务人类](https://docs.python-requests.org/zh_CN/latest/)
+- [Playwright-Python --- enables reliable end-to-end testing for modern web apps.](https://playwright.dev/python/)
+
+
+### Stations
+- jd_script：[爬取京东商品数据](https://www.ixigua.com/7035883577141101060)
