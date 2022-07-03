@@ -7,6 +7,9 @@ name = "pypi"
 scrapy = "*"
 requests = "*"
 shub = "*"
+openpyxl = "*"
+psycopg2 = "*"
+playwright = "*"
 
 [dev-packages]
 
